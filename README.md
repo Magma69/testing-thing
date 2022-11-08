@@ -1,3 +1,5 @@
+[<img src="https://open.autocode.com/static/images/open.svg?" width="192">](https://open.autocode.com/)
+
 # dom-examples
 Code examples that accompany various MDN DOM and Web API documentation pages.
 
